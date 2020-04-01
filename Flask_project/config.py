@@ -28,3 +28,7 @@ SQLALCHEMY_DATABASE_URI="{}+{}://{}:{}@{}:{}/{}?charset=utf8".format(DIALECT,DRI
                                                                 HOST,PORT,DATABASE)
 
 SQLALCHEMY_TRACK_MODIFICATIONS=False
+
+
+#SQLALCHEMY_TRACK_MODIFICATIONS=False
+#SQLALCHEMY_TRACK_MODIFICATIONS=False
