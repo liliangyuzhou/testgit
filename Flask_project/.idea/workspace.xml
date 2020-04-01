@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92c3a9da-730f-4f9f-80a0-fdd1948d60c8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brand</find>
+      <find>link</find>
+      <find>relationship</find>
+      <find>zhiliao.jpg</find>
+      <find>SECRET_KEY</find>
+      <find>img</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Flask_project</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1SrJiKLXWTDtyZvI4n37Ou3jVIT" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaiduNetdiskDownload/代码和笔记/python_flask/05_view_advance/02_standard_class_view" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Flask_project\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Flask_project\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.zlktqa">
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zlktqa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jh\Envs\my_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zlktqa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.utils" />
+      <item itemvalue="Python.zlktqa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zlktqa" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jh\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92c3a9da-730f-4f9f-80a0-fdd1948d60c8" name="Default Changelist" comment="" />
+      <created>1571726143895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571726143895</updated>
+      <workItem from="1572315909228" duration="5000" />
+      <workItem from="1572316070754" duration="1759000" />
+      <workItem from="1573000166676" duration="860000" />
+      <workItem from="1573105215553" duration="883000" />
+      <workItem from="1573173859175" duration="779000" />
+      <workItem from="1573452009902" duration="1504000" />
+      <workItem from="1573518574230" duration="599000" />
+      <workItem from="1573521832301" duration="594000" />
+      <workItem from="1573633356088" duration="602000" />
+      <workItem from="1573692812272" duration="734000" />
+      <workItem from="1573779677036" duration="599000" />
+      <workItem from="1574039563971" duration="598000" />
+      <workItem from="1574124009417" duration="1446000" />
+      <workItem from="1574210041571" duration="599000" />
+      <workItem from="1574297955417" duration="1321000" />
+      <workItem from="1574385008094" duration="1207000" />
+      <workItem from="1574642289300" duration="1295000" />
+      <workItem from="1574736775384" duration="599000" />
+      <workItem from="1574819739172" duration="599000" />
+      <workItem from="1574902287431" duration="595000" />
+      <workItem from="1574927900828" duration="1321000" />
+      <workItem from="1574989556096" duration="622000" />
+      <workItem from="1575006832216" duration="1399000" />
+      <workItem from="1575253972241" duration="1209000" />
+      <workItem from="1575334709331" duration="1214000" />
+      <workItem from="1575420707654" duration="598000" />
+      <workItem from="1575524546091" duration="599000" />
+      <workItem from="1575615528655" duration="599000" />
+      <workItem from="1575681341603" duration="650000" />
+      <workItem from="1575774112457" duration="3426000" />
+      <workItem from="1575851839283" duration="602000" />
+      <workItem from="1575939192909" duration="599000" />
+      <workItem from="1576025268301" duration="595000" />
+      <workItem from="1576111215001" duration="598000" />
+      <workItem from="1576215846437" duration="627000" />
+      <workItem from="1576457269312" duration="598000" />
+      <workItem from="1576543994011" duration="654000" />
+      <workItem from="1576631220060" duration="705000" />
+      <workItem from="1576802887447" duration="599000" />
+      <workItem from="1577066269688" duration="599000" />
+      <workItem from="1577241161398" duration="25000" />
+      <workItem from="1577243360028" duration="176000" />
+      <workItem from="1577243975015" duration="600000" />
+      <workItem from="1577321574876" duration="660000" />
+      <workItem from="1577408328062" duration="599000" />
+      <workItem from="1577667478621" duration="599000" />
+      <workItem from="1577687340426" duration="1198000" />
+      <workItem from="1577753653973" duration="600000" />
+      <workItem from="1577926045465" duration="598000" />
+      <workItem from="1577934694904" duration="599000" />
+      <workItem from="1578011988054" duration="598000" />
+      <workItem from="1578271684184" duration="975000" />
+      <workItem from="1578362228240" duration="599000" />
+      <workItem from="1578621142565" duration="1711000" />
+      <workItem from="1578645065190" duration="4985000" />
+      <workItem from="1578650467011" duration="1847000" />
+      <workItem from="1578653097912" duration="754000" />
+      <workItem from="1578666018201" duration="4604000" />
+      <workItem from="1578736710239" duration="8626000" />
+      <workItem from="1578962338092" duration="2495000" />
+      <workItem from="1579054763292" duration="778000" />
+      <workItem from="1579396628262" duration="71000" />
+      <workItem from="1585705294375" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zlktqa.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zlktqa.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Flask_project$zlktqa.coverage" NAME="zlktqa Coverage Results" MODIFIED="1578995154889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
