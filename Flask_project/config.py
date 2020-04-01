@@ -9,6 +9,10 @@ DEBUG = True
 
 SECRET_KEY=os.urandom(24)
 
+#DEBUG = True ceshigit
+
+#SECRET_KEY=os.urandom(24) ceshigit
+
 # dialect+driver://username:password@host:port/database
 DIALECT='mysql'
 # DRIVER='mysqldb'
